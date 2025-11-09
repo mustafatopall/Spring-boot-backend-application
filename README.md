@@ -32,7 +32,7 @@ Modern ve profesyonel bir Spring Boot backend uygulaması. RESTful API, JPA, H2 
 ##  Gereksinimler
 
 - Java 17 veya üzeri
-- Maven 3.6+ (veya Maven Wrapper kullanılabilir)
+- Maven 3.6+
 
 ##  Kurulum
 
@@ -57,7 +57,7 @@ cd spring-boot-backend
 
 Uygulama `http://localhost:8080` adresinde başlayacaktır.
 
-## 📖 Kullanım
+##  Kullanım
 
 ### API Base URL
 ```
